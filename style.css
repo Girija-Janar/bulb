@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+button{
+    width: 80px;
+    height: 80px;
+    background: black;
+    color: white;
+    font-size: larger24px;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    border-radius: 20px;
+}
+#bulb{
+    height: 300px;
+    width: 300px;
+    justify-content: center;
+}
